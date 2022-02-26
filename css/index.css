@@ -142,3 +142,6 @@ nav span{
 .project button:hover{
     background-color: #3C6E71;
 }
+.contacts{
+    padding: 5rem 22rem;
+}
