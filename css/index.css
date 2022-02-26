@@ -99,14 +99,18 @@ nav span{
 .mobile span{
     color: #D4AF37;
 }
-.profile{
-    padding: 10%;
-    padding-top: 1%;
-}
 .plate{
     display: flex;
-    padding: ;
+    padding: 5%;
 }
+.profile{
+    padding: 0% 10%;
+    padding-right: 5%;
+}
+.skills, .hobbies{
+    padding: 0% 5%;
+}
+
 
 .project img{
     width: 30%;
