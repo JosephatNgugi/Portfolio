@@ -128,3 +128,17 @@ nav span{
     padding: 1rem;
     display: block;
 }
+.projects button{
+    padding: 3%;
+    background-color: #284B63;
+    border: none;
+    border-radius: 2rem;
+
+}
+.project button a{
+    text-decoration: none;
+    color: #D4AF37;
+}
+.project button:hover{
+    background-color: #3C6E71;
+}
