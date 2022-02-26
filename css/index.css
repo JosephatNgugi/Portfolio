@@ -151,3 +151,11 @@ nav span{
 .contacts li{
     list-style: none;
 }
+footer{
+    display: flex;
+    padding: 1rem 15rem;
+    background-color: #284B63;
+}
+footer h2{
+    padding: 0rem 2rem;
+}
