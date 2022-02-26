@@ -76,8 +76,7 @@ nav span{
     padding-top: 3.5rem;
 }
 .about{
-    padding: 22rem;
-    padding-top: 5rem;
+    padding: 5rem 22rem;
 }
 .about h2, .project h2, .contacts h2{
     font-size: 2rem;
@@ -100,7 +99,14 @@ nav span{
 .mobile span{
     color: #D4AF37;
 }
-
+.profile{
+    padding: 10%;
+    padding-top: 1%;
+}
+.plate{
+    display: flex;
+    padding: ;
+}
 
 .project img{
     width: 30%;
