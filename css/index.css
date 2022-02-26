@@ -110,8 +110,21 @@ nav span{
 .skills, .hobbies{
     padding: 0% 5%;
 }
-
+.project{
+    padding: 5rem 8rem;
+}
 
 .project img{
-    width: 30%;
+    width: 100%;
+}
+.project p, .projects{
+    padding: 2rem;
+    font-size: large;
+}
+.flex3{
+    display: flex;
+}
+.projects p{
+    padding: 1rem;
+    display: block;
 }
