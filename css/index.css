@@ -75,7 +75,8 @@ nav span{
     font-size: larger;
     padding-top: 3.5rem;
 }
-.about{
+.about,
+.contacts{
     padding: 5rem 22rem;
 }
 .about h2, .project h2, .contacts h2{
@@ -142,6 +143,11 @@ nav span{
 .project button:hover{
     background-color: #3C6E71;
 }
-.contacts{
-    padding: 5rem 22rem;
+.contacts ul{
+    font-size: large;
+    text-align: center;
+    padding: 5%;
+}
+.contacts li{
+    list-style: none;
 }
