@@ -11,14 +11,14 @@
 * Open the below provided Link to View the page.
 -----
 ## Host Link
-Click on this link to view the live website: 
+Click on this link to view the live website: https://josephatngugi.github.io/Portfolio/
 
 -----
 ## Known Bugs
 The page may be unresponsive depending on the screen size being used.
 ## Technologies Used
--HTML
--CSS
+- HTML
+- CSS
 
 ----
 ## License:
